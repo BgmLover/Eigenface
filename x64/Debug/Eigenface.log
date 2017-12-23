@@ -1,9 +1,43 @@
-﻿  mytest.cpp
+﻿  lib.cpp
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\util\lib.cpp(37): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\util\lib.cpp(59): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  mytrain.cpp
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\mytrain\mytrain.cpp(14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\mytrain\mytrain.cpp(15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  mytest.cpp
 f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\mytest\mytest.cpp(50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  myreconstruct.cpp
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  getfaces.cpp
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\get_faces\getfaces.cpp(77): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\get_faces\getfaces.cpp(78): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\get_faces\getfaces.cpp(90): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\get_faces\getfaces.cpp(91): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
 f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\mytest\mytest.cpp(86): warning C4715: “Test::test_one”: 不是所有的控件路径都返回值
   Eigenface.vcxproj -> F:\Opencv\practice\Job3_Eigenface\Eigenface\x64\Debug\Eigenface.exe
   Eigenface.vcxproj -> F:\Opencv\practice\Job3_Eigenface\Eigenface\x64\Debug\Eigenface.pdb (Partial PDB)

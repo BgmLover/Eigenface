@@ -17,9 +17,9 @@ int main()
 	Train mytrain(16);
 	mytrain.load_face("resource/face/yale/");
 	mytrain.get_meanface();
-	//mytrain.get_eigen();
-	//mytrain.save_model(number_of_PCs);
-	//mytrain.get_eigenface(10);
+	mytrain.get_eigen();
+	mytrain.save_model(number_of_PCs);
+	mytrain.get_eigenface(10);
 
 
 	Test mytest;

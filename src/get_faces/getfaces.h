@@ -21,11 +21,8 @@ public:
 	int width;
 	int height;
 	vector<Mat>src;
-	//vector<Mat>gray;
 	Mat mean;
 	double fx, fy, t;//第一个眼睛在图像中的位置比例；两只眼睛的距离占比
-	
-
 	Face() {
 		this->imgdir = "resource/faces/";
 		this->save_path = "resource/face/";
@@ -42,9 +39,6 @@ public:
 
 	void capture( string path, int width, int height, double fx, double fy, double t);
 	void nornalization();
-	
-
-	
 private:
 	params cap;
 	
