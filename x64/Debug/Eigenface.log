@@ -1,0 +1,9 @@
+﻿  mytest.cpp
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\mytest\mytest.cpp(50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\opencv\practice\job3_eigenface\eigenface\eigenface\src\mytest\mytest.cpp(86): warning C4715: “Test::test_one”: 不是所有的控件路径都返回值
+  Eigenface.vcxproj -> F:\Opencv\practice\Job3_Eigenface\Eigenface\x64\Debug\Eigenface.exe
+  Eigenface.vcxproj -> F:\Opencv\practice\Job3_Eigenface\Eigenface\x64\Debug\Eigenface.pdb (Partial PDB)
